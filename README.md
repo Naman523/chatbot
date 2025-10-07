@@ -2,6 +2,15 @@
 
 An AI-powered Telegram Bot built with python-telegram-bot that integrates Ollama (Llama3), OpenWeather API, News API, and PyJokes to provide a multi-functional smart assistant.
 
+
+## 🚀 Live Dashboard Preview  
+
+Experience the SmartBot Dashboard in action:  
+👉 **[🔗 SmartBot Dashboard – Live Preview](https://smartbot-dash-1.preview.emergentagent.com/)**  
+
+Seamlessly deployed via Emergent Cloud — explore real-time analytics, intuitive UI, and intelligent bot insights right from your browser.
+
+
 **🚀 Features**
 
 ✅ Chat with AI — Powered by Ollama (Llama3), responds conversationally to your text.
